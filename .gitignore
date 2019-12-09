@@ -1,0 +1,15 @@
+[Db]ebug/
+[Db]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+.vs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
